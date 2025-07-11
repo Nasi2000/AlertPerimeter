@@ -2,6 +2,9 @@
   <div class="wrapper">
     <BlockFormAuth/>
   </div>
+    <div class="wrapper">
+    <BlockFormAuth/>
+  </div>
 </template>
 
 <script setup lang="ts">
